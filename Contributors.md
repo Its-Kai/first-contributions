@@ -11560,6 +11560,7 @@ macdara-dev
 - [John Johnson](https://github.com/JohnJohnsonIII)
 - [Olivia Lorimor](https://github.com/olorimor)
 - [CSIGildea](https://github.com/csigildea)
+- Kai Blanco
 - [Max Vasin Limsukhawat](https://github.com/vasinl124)
 - [Mathieu Saubin](https://github.com/Doomfang3)
 - [zhichuanxun](https://github.com/zhichuanxun)
